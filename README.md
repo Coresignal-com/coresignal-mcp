@@ -8,7 +8,7 @@ The server is accessible via the following link:
 
 https://mcp.coresignal.com/sse
 
-To connect to the remote Coresignal MCP server using mcp-remote you need to have Node.js installed.
+To connect to the remote Coresignal MCP server using mcp-remote you need to have [Node.js](https://nodejs.org/en) installed.
 
 ## Required configuration
 
