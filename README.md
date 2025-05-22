@@ -56,6 +56,7 @@ Response:
 4. Bloomfire - Knowledge Management Software with 79 employees 
 5. Brightpearl by Sage - Software Development company with 135 employees
 
-Documentation
+## Documentation
+
 For more detailed API documentation and further information, visit the [Coresignal Documentation](https://docs.coresignal.com/api).
 
