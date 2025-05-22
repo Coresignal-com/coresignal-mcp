@@ -14,6 +14,9 @@ To connect to the remote Coresignal MCP server using mcp-remote you need to have
 
 To add the Coresignal MCP server to your client, include the following JSON object in MCP client configuration:
 
+```javascript
+
+{
 {
   "mcpServers": {
     "coresignal_data_api": {
@@ -30,6 +33,7 @@ To add the Coresignal MCP server to your client, include the following JSON obje
     }
   }
 }
+```
 
 ## Available tools
 
