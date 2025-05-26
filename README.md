@@ -17,7 +17,6 @@ To add the Coresignal MCP server to your client, include the following JSON obje
 ```javascript
 
 {
-{
   "mcpServers": {
     "coresignal_data_api": {
       "command": "npx",
