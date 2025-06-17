@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/coresignal-com-coresignal-mcp-badge.png)](https://mseep.ai/app/coresignal-com-coresignal-mcp)
+
 # Coresignal MCP 
 
 The Coresignal MCP Server enables seamless integration of Coresignal's data with AI-powered applications. By connecting to this server, AI assistants can access fresh B2B data about companies, employees, and job postings directly within chat interfaces.
