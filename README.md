@@ -1,6 +1,6 @@
 # Coresignal MCP 
 
-The Coresignal MCP Server enables seamless integration of Coresignal's data with AI-powered applications. By connecting to this server, AI assistants can access fresh B2B data about companies, employees, and job postings directly within chat interfaces.
+The Coresignal MCP Server enables seamless integration of Coresignal's data with AI-powered applications. By connecting to this server, AI assistants can access fresh multi-source B2B data about companies, employees, and job postings directly within chat interfaces.
 
 ## Connect the Coresignal MCP
 
@@ -38,9 +38,10 @@ To add the Coresignal MCP server to your client, include the following JSON obje
 
 The MCP server provides access to the following data entities:
 
-- Coresignal Multi-source Company API: Access to 39M+ company records.
-- Coresignal Multi-source Employee API: Access to 725M+ employee records.
-- Coresignal Jobs API: Access to 349M+ job posting records
+- Coresignal Company API: Access to 74M+ company records.
+- Coresignal Employee API: Access to 823M+ employee records.
+- Coresignal Jobs API: Access to 399M+ job posting records
+
 
 ## Usage example
 
