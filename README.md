@@ -6,7 +6,7 @@ The Coresignal MCP Server enables seamless integration of Coresignal's data with
 
 The server is accessible via the following link:
 
-https://mcp.coresignal.com/sse
+https://mcp.coresignal.com/mcp
 
 To connect to the remote Coresignal MCP server using mcp-remote you need to have [Node.js](https://nodejs.org/en) installed.
 
@@ -22,7 +22,7 @@ To add the Coresignal MCP server to your client, include the following JSON obje
       "command": "npx",
       "args": [
         "mcp-remote@0.0.22",
-        "https://mcp.coresignal.com/sse",
+        "https://mcp.coresignal.com/mcp",
         "--header",
         "apikey:${APIKEY_VALUE}"
       ],
